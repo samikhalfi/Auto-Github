@@ -1,0 +1,39 @@
+{
+    "series": [
+        44,
+        55,
+        41,
+        17,
+        15
+    ],
+    "options": {
+        "labels": [
+            "Rose A",
+            "Rose B",
+            "Rose C",
+            "Rose D",
+            "Rose E"
+        ],
+        "stroke": {
+            "colors": [
+                "#fff"
+            ]
+        },
+        "fill": {
+            "opacity": 0.8
+        },
+        "responsive": [
+            {
+                "breakpoint": 480,
+                "options": {
+                    "chart": {
+                        "width": 200
+                    },
+                    "legend": {
+                        "position": "bottom"
+                    }
+                }
+            }
+        ]
+    }
+}

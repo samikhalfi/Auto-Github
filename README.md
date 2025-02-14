@@ -6,8 +6,6 @@
 
 This tool is useful for creating datasets that can be used to train machine learning models (e.g., LLMs) or analyze coding patterns in custom components for Qodly Studio. The dataset is optimized for React components written in TypeScript (`tsx`).
 
-Inspired by [hf-codegen](https://github.com/sayakpaul/hf-codegen), this project adapts and extends the original idea to focus on Qodly Studio's custom components.
-
 See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/overview) to learn how to code new custom components.
 
 ---
@@ -147,7 +145,7 @@ To monitor progress in real-time, check the logs or view console output while th
 
 ## Credits
 
-This project was inspired by [hf-codegen](https://github.com/sayakpaul/hf-codegen) by Sayak Paul. Special thanks to the original creator for their work on automating dataset generation for code-related tasks.
+Inspired by [hf-codegen](https://github.com/sayakpaul/hf-codegen), this project adapts and extends the original idea to focus on Qodly Studio's custom components.
 
 ---
 
